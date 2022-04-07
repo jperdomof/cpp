@@ -1,7 +1,6 @@
 /*
-  Proposito del programa:
-  Autor:
-  fecha:
+  Proposito del programa: Punto de venta parte 2
+ 
   
 */
 
